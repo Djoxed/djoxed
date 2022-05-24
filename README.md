@@ -1,4 +1,4 @@
-### Hi there 👋
+### Official Djoxed repository
 
 <!--
 **Djoxed/djoxed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
